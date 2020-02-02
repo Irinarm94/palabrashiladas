@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	background-image: url("../img/fondop.jpg");
+	background-size: cover;
+}
+
+#poemas {
+	padding: 50px;
+}
+
+.post-meta {
+	font-family: Lora, 'Times New Roman', serif;
+	text-align: center;
+}
+
+h3 {
+	font-style: normal;
+	font-size: 25px;
+	color: #b30059;
+}
+
+nav>a,
+h3 {
+	font-family: 'Homemade Apple', Georgia, serif;
+}
+
+pre {
+	font-family: 'PT Serif', serif, Georgia, serif;
+}

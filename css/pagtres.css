@@ -1,0 +1,27 @@
+body {
+	background-color: #797574;
+	background-image: url("../img/fondow.jpg");
+	background-size: cover;
+}
+
+p {
+	font-family: Lora, 'Times New Roman', serif;
+	text-align: center;
+	color: #000000;
+}
+
+h3 {
+	font-style: normal;
+	font-size: 25px;
+	color: #b30059;
+}
+
+nav>a,
+h3,
+.lead {
+	font-family: 'Homemade Apple', Georgia, serif;
+}
+
+.foto {
+	margin-top: 20px;
+}

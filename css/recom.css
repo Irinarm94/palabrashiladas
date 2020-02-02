@@ -1,0 +1,99 @@
+body {
+	background-color: #ffffff;
+	background-image: url("../img/books.jpg");
+	background-size: cover;
+}
+
+p {
+	font-family: Lora, 'Times New Roman', serif;
+	text-align: center;
+	color: #000000;
+}
+
+h3 {
+	font-style: normal;
+	font-size: 25px;
+	color: #b30059;
+}
+
+nav>a,
+h3 {
+	font-family: 'Homemade Apple', Georgia, serif;
+}
+
+.lead {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+#safo {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	margin-left: 3rem;
+}
+
+.separar,
+#sylvia,
+table {
+	margin-top: 2rem;
+}
+
+#pizarnik,
+#luis,
+#safo,
+#elv {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#luis,
+#elvira {
+	margin-left: 1rem !important;
+}
+
+#gata {
+	margin-left: 6rem;
+}
+
+.table-hover tbody tr:hover td {
+	background: white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table td {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+table tr:nth-child(even) {
+	background-color: #e0e0d1;
+}
+
+table tr:nth-child(odd) {
+	background-color: #ffbb99;
+}
+
+table th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #997300;
+	border: 1px solid #ddd;
+	padding: 8px;
+	font-family: 'Homemade Apple'
+}
+
+img {
+	border: 5px black double !important;
+}
+
+.tabla {
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+}

@@ -1,0 +1,75 @@
+
+/* Links */
+a{color:#b478ed;
+}
+
+a:hover{color:#8f35e3;
+}
+
+a:active {color:#5c159d;
+
+}
+
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #fff;
+  text-shadow: none;
+  background-color: #333;
+  border: .05rem solid pink;
+}
+
+/* Body */
+
+h1 {font-family: 'Allura', Georgia, serif;
+font-size: 4em;
+
+}
+
+
+html,
+body {
+  height: 100%;
+  background-color: #797574;
+  background-image: url("../img/cover.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: black;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+
+}
+
+.cover-container {
+  max-width: 42em;
+}
+
+/* Header */
+.masthead {
+  margin-bottom: 2rem;
+}
+
+
+
+/* Cover */
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .60rem 1rem;
+}
+
+/* Footer */
+.mastfoot {
+  color: black;
+}

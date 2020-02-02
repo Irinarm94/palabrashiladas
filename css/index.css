@@ -1,0 +1,59 @@
+.jumbotron {
+	background-color: #797574;
+	background-image: url("../img/cabecera.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#bienvenida {
+	text-align: justify;
+}
+
+h2,
+h3,
+h5,
+p,
+nav,
+aside,
+figcaption {
+	font-family: 'PT serif', Georgia, serif;
+}
+
+h1 {
+	font-family: Allura, Georgia, serif;
+}
+
+.cuerpo {
+	background-image: url("../img/origami.jpg");
+	background-size: cover;
+}
+
+ol {
+	padding-left: 2rem;
+	list-style-type: none;
+}
+
+ol li {
+	padding-left: 2rem;
+	background-image: url("../img/pluma.png");
+	background-position: 0 0;
+	background-size: 1.6rem 1.6rem;
+	background-repeat: no-repeat;
+}
+
+.menu {
+	padding-top: 2rem;
+}
+
+.centrar {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+figcaption {
+	padding: 3px;
+	text-align: center;
+	font-size: 12px;
+}

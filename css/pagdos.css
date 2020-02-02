@@ -1,0 +1,26 @@
+body {
+	background-color: #797574;
+	background-image: url("../img/ocean.jpg");
+	background-size: cover;
+}
+
+#poemas {
+	padding: 50px;
+}
+
+h3 {
+	font-family: 'Kalam', cursive, Georgia, serif;
+	font-style: normal;
+	font-size: 2em;
+	color: #ffff;
+}
+
+nav>a {
+	font-family: 'Homemade Apple', Georgia, serif;
+}
+
+pre {
+	font-family: Arial, Georgia, serif;
+	color: #ffff;
+}
+
